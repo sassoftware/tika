@@ -1,6 +1,11 @@
 # CVE-2025-66516 & CVE-2025-54988 Analysis and Mitigation
 
-This branch contains comprehensive analysis and mitigation strategies for one critical and one high-severity XML External Entity (XXE) vulnerabilities discovered in Apache Tika.
+**Apache Tika Version:** 1.28.5
+
+This branch provides complete security fixes with comprehensive vulnerability analysis, extensive test coverage (13 security tests), and detailed documentation for one critical and one high-severity XML External Entity (XXE) vulnerabilities in Apache Tika 1.28.5.
+
+> **Note:** A fix for Apache Tika version 2.9.4 is available at:  
+> https://github.com/sassoftware/tika/tree/2.9.4-CVE-2025-66516-CVE-2025-54988
 
 ---
 
