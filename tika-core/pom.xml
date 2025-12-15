@@ -230,10 +230,7 @@
         </plugins>
     </build>
 
-    <description>This is the core Apache Tika™ toolkit library from which all other modules inherit functionality. It
-        also
-        includes the core facades for the Tika API.
-    </description>
+    <description>This is the core Apache Tika™ toolkit library from which all other modules inherit functionality. It also includes the core facades for the Tika API. This version contains the complete CVE-2025-66516 and CVE-2025-54988 security fixes for XML External Entity (XXE) vulnerabilities.</description>
     <organization>
         <name>The Apache Software Foundation</name>
         <url>http://www.apache.org</url>
