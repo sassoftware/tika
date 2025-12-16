@@ -349,7 +349,7 @@
     <icu4j.version>62.2</icu4j.version>
     <imageio.version>1.4.0</imageio.version>
     <!-- jackrabbit 2.21.23 requires java 11 -->
-    <jackrabbit.version>2.21.22</jackrabbit.version>
+    <jackrabbit.version>2.22.2</jackrabbit.version>
     <jackson.version>2.19.0</jackson.version>
     <jackcess.version>4.0.8</jackcess.version>
     <jackcess.encrypt.version>4.0.3</jackcess.encrypt.version>
