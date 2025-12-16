@@ -1,6 +1,6 @@
 # CVE-2025-66516 & CVE-2025-54988 Analysis and Mitigation
 
-**Apache Tika Version:** 2.9.4
+**Apache Tika Version:** 2.9.4-SAS.0.0.1
 
 This branch provides complete security fixes with comprehensive vulnerability analysis, extensive test coverage (11 security tests), and detailed documentation for two critical XML External Entity (XXE) vulnerabilities in Apache Tika 2.9.4.
 
